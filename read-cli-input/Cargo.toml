@@ -1,0 +1,6 @@
+[package]
+name = "read-cli-input"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
